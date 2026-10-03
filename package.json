@@ -1,0 +1,5 @@
+{
+  "name": "cloud-coffee-api-tm8",
+  "version": "1.0.0",
+  "scripts": { "test": "node --test tests/" }
+}
